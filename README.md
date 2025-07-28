@@ -20,9 +20,13 @@ Proyek ini bertujuan menganalisis data statistik video trending di YouTube Indon
     3.  Utamakan Kualitas: Jangan hanya mengejar "clickbait". Konten berkualitas yang mendatangkan *likes* adalah kunci kesuksesan jangka panjang di mata algoritma.
 
 ## AI Support Explanation
-Dalam proyek ini, AI (seperti Google Gemini) digunakan pada tahap interpretasi data. Setelah pola data ditemukan melalui visualisasi, AI membantu untuk:
-- Menerjemahkan temuan grafik menjadi *insight* yang lebih mendalam.
-- Merumuskan rekomendasi strategis yang dapat ditindaklanjuti berdasarkan temuan tersebut.
+Dalam proyek ini, AI (Large Language Model) digunakan secara teknis untuk analisis data tekstual pada kolom "tags" video:
+Topic Modeling & Summarization:
+Cara Penggunaan: LLM diinstruksikan untuk menganalisis ribuan tags dari video-video paling trending di kategori "Entertainment" dan merangkumnya menjadi 5 tema utama (misalnya: "Prank", "Challenge", "Daily Vlog", "Review Jujur", "Podcast Artis").
+Alasan: Ini memberikan pemahaman granular tentang sub-topik apa yang paling berhasil di dalam kategori yang luas.
+Analisis Sentimen pada Tags:
+Cara Penggunaan: LLM melakukan klasifikasi sentimen pada tags untuk mengidentifikasi apakah tags dengan kata-kata emosional (misal: "lucu", "sedih", "mengharukan") berkorelasi dengan engagement yang lebih tinggi.
+Alasan: Untuk memvalidasi hipotesis bahwa pemicu emosi dalam metadata video dapat meningkatkan performa.
 
 ## Link csv
 Dikarenakan file csv yang saya gunakan lebih besar dari kapasitas upload yaitu 25mb maka untuk file csv nya saya unggah dalam bentuk drive.
