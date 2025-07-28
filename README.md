@@ -25,5 +25,5 @@ Dalam proyek ini, AI (seperti Google Gemini) digunakan pada tahap interpretasi d
 - Merumuskan rekomendasi strategis yang dapat ditindaklanjuti berdasarkan temuan tersebut.
 
 ## Link csv
-Dikarenakan file csv yang saya gunakan lebih besar dari kapasitas upload yaitu 25mb maka untuk file csv nya saya unggah dalam bentuk drive :
+Dikarenakan file csv yang saya gunakan lebih besar dari kapasitas upload yaitu 25mb maka untuk file csv nya saya unggah dalam bentuk drive.
 Link csv : [https://drive.google.com/drive/u/1/folders/10dpWqfvUTgWV2sH6f_vPiCZVVWRiuc1O ](https://drive.google.com/drive/folders/10dpWqfvUTgWV2sH6f_vPiCZVVWRiuc1O?usp=sharing)
