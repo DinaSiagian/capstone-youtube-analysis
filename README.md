@@ -17,7 +17,7 @@ Proyek ini bertujuan menganalisis data statistik video trending di YouTube Indon
 - Rekomendasi:
     1.  Fokus pada Niche Populer: Kreator baru disarankan fokus pada kategori Entertainment atau Music untuk peluang terbesar.
     2.  Bangun Komunitas: Prioritaskan membangun audiens yang loyal secara konsisten. Kolaborasi bisa menjadi strategi akselerasi.
-    3.  **Utamakan Kualitas: Jangan hanya mengejar "clickbait". Konten berkualitas yang mendatangkan *likes* adalah kunci kesuksesan jangka panjang di mata algoritma.
+    3.  Utamakan Kualitas: Jangan hanya mengejar "clickbait". Konten berkualitas yang mendatangkan *likes* adalah kunci kesuksesan jangka panjang di mata algoritma.
 
 ## AI Support Explanation
 Dalam proyek ini, AI (seperti Google Gemini) digunakan pada tahap interpretasi data. Setelah pola data ditemukan melalui visualisasi, AI membantu untuk:
